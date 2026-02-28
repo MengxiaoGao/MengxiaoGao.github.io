@@ -12,9 +12,9 @@ I am always happy to chat — feel free to reach out via email!
 
 ## Publications & Preprints
 
-- **Hybrid Top-Down Global Causal Discovery with Local Search for Linear and Nonlinear Additive Noise Models**
+- <span style="font-weight:700;">Hybrid Top-Down Global Causal Discovery with Local Search for Linear and Nonlinear Additive Noise Models</span>
   <br>
-  Sujai Hiremath, Jacqueline R.M.A. Maasch, **Mengxiao Gao**, Promit Ghosal, Kyra Gan
+  Sujai Hiremath, Jacqueline R.M.A. Maasch, <span style="font-weight:700;">Mengxiao Gao</span>, Promit Ghosal, Kyra Gan
   <br>
   [[arXiv](https://arxiv.org/abs/2405.14496)][[NeurIPS 2024](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f03fc3545c3cfb3aa696ad6d58eed1a7-Abstract-Conference.html)]
 
@@ -23,7 +23,7 @@ I am always happy to chat — feel free to reach out via email!
 <div style="display:flex; align-items:center; gap:12px; margin-bottom:16px;">
   <img src="cornell.png" width="70">
   <div>
-    <strong> Cornell University </strong>  <br>
+    <span style="font-weight:700;"> Cornell University</span>  <br>
     2025.08 – Present <br>
     Ph.D. in Operations Research and Information Engineering
   </div>
@@ -33,7 +33,7 @@ I am always happy to chat — feel free to reach out via email!
 <div style="display:flex; align-items:center; gap:12px; margin-bottom:16px;">
   <img src="thu2.png" width="70">
   <div>
-    <strong>Tsinghua University</strong> <br>
+    <span style="font-weight:700;">Tsinghua University</span> <br>
     2021.09 – 2025.06 <br>
     B.S. in Mathematics and Physics; Double Major in Civil Engineering and Systems
   </div>
