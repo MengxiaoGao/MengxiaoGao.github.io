@@ -21,16 +21,17 @@ I am always happy to chat — feel free to reach out via email!
 ## Education
 
 <div style="display:flex; align-items:center; gap:12px; margin-bottom:8px;">
-  <img src="cornell.png" width="60">
+  <img src="cornell.png" width="80">
   <div>
-    <strong>Cornell University</strong> <br>
+    <strong> Cornell University </strong>  <br>
     2025.08 – Present <br>
     Ph.D. in Operations Research and Information Engineering
   </div>
 </div>
 
+
 <div style="display:flex; align-items:center; gap:12px; margin-bottom:8px;">
-  <img src="thu2.png" width="60">
+  <img src="thu2.png" width="80">
   <div>
     <strong>Tsinghua University</strong> <br>
     2021.09 – 2025.06 <br>
