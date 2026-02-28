@@ -4,11 +4,9 @@ layout: homepage
 
 ## About Me
 
-I am a first-year Ph.D. student in the [School of Operations Research and Information Engineering (ORIE)](https://www.orie.cornell.edu/) at Cornell University. I am fortunate to be advised by Professor [Kyra Gan](https://kyra-gan.github.io/).
+I am a first-year PhD student in the [School of Operations Research and Information Engineering (ORIE)](https://www.orie.cornell.edu/) at Cornell University. I am fortunate to be advised by Professor [Kyra Gan](https://kyra-gan.github.io/). My research focuses on developing robust and efficient methods for causal inference and causal discovery. I am also working on developing efficient and scalable nonparametric statistical tests.
 
-My research focuses on developing robust and efficient methods for causal inference and causal discovery. I am also working on developing efficient and scalable nonparametric statistical tests.
-
-I received my B.S. from [Weiyang College](https://www.wyc.tsinghua.edu.cn/), Tsinghua University, where I pursued a dual major in Mathematics & Physics and Civil Engineering & Systems.
+Before my PhD, I received my B.S. from [Weiyang College](https://www.wyc.tsinghua.edu.cn/), Tsinghua University, where I pursued a dual major in Mathematics & Physics and Civil Engineering & Systems.
 
 I am always happy to chat — feel free to reach out via email!
 
@@ -22,23 +20,32 @@ I am always happy to chat — feel free to reach out via email!
 
 ## Education
 
-- **Cornell University** &nbsp; *2025.08 – Present*
-  <br>
-  Ph.D. in Operations Research and Information Engineering
-  <br>
-  Advisor: [Kyra Gan](https://kyra-gan.github.io/)
+<div style="display:flex; align-items:center; gap:12px; margin-bottom:8px;">
+  <img src="assets/img/cornell.png" width="40">
+  <div>
+    <strong>Cornell University</strong> &nbsp; 2025.08 – Present<br>
+    Ph.D. in Operations Research and Information Engineering
+    Advisor: Professor [Kyra Gan](https://kyra-gan.github.io/)
+  </div>
+</div>
 
-- **Tsinghua University** &nbsp; *2021.09 – 2025.06*
-  <br>
-  B.S. in Mathematics and Physics; Double Major in Civil Engineering and Systems
-  <br>
-  Weiyang College
+<div style="display:flex; align-items:center; gap:12px; margin-bottom:8px;">
+  <img src="assets/img/thu2.png" width="40">
+  <div>
+    <strong>Tsinghua University</strong> &nbsp; 2021.09 – 2025.06<br>
+    B.S. in Mathematics and Physics; Double Major in Civil Engineering and Systems
+  </div>
+</div>
 
 ## Miscellaneous
 
 Outside of research, I enjoy puzzle-solving games and follow tennis and figure skating. I have a deep appreciation for traditional Chinese music and classical poetry. I also love traveling and trying local cuisines wherever I go.
 
-My favorite figure skating programs:
+My favorite figure skating programs includes:
+<br>
 [Weijing Sui](https://en.wikipedia.org/wiki/Sui_Wenjing)/Cong Han(https://en.wikipedia.org/wiki/Han_Cong): [Rain in Your Black Eyes](https://www.youtube.com/watch?v=3JCHh2Kcm1E) 
+<br>
 [Alena Kostornaia](https://en.wikipedia.org/wiki/Alena_Kostornaia): [Twilight](https://www.youtube.com/watch?v=lm_ELKKSgLI)
+<br>
 [Rika Kihira](https://en.wikipedia.org/wiki/Rika_Kihira): [The Fire Within](https://www.youtube.com/watch?v=50ljcDzWJ_0)
+<br>
