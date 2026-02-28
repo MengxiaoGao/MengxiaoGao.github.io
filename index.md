@@ -43,7 +43,7 @@ Outside of research, I enjoy puzzle-solving games and follow tennis and figure s
 
 My favorite figure skating programs includes:
 <br>
-[Weijing Sui](https://en.wikipedia.org/wiki/Sui_Wenjing)/Cong Han(https://en.wikipedia.org/wiki/Han_Cong): [Rain in Your Black Eyes](https://www.youtube.com/watch?v=3JCHh2Kcm1E) 
+[Weijing Sui](https://en.wikipedia.org/wiki/Sui_Wenjing)/[Cong Han](https://en.wikipedia.org/wiki/Han_Cong): [Rain in Your Black Eyes](https://www.youtube.com/watch?v=3JCHh2Kcm1E) 
 <br>
 [Alena Kostornaia](https://en.wikipedia.org/wiki/Alena_Kostornaia): [Twilight](https://www.youtube.com/watch?v=lm_ELKKSgLI)
 <br>
