@@ -2,64 +2,43 @@
 layout: homepage
 ---
 
-<h2><div id="about">About Me</div></h2>
+## About Me
 
-I am currently a junior student at Weiyang College, Tsinghua University, pursuing a dual major in Mathematics and Physics, as well as Civil Engineering and Systems.
+I am a first-year Ph.D. student in the [School of Operations Research and Information Engineering (ORIE)](https://www.orie.cornell.edu/) at Cornell University. I am fortunate to be advised by Professor [Kyra Gan](https://kyra-gan.github.io/).
 
-In addition to my undergraduate coursework, I am fortunate to be mentored by Professor  [Kyra Gan](https://kyra-gan.github.io/), with whom I explore local discovery and hybrid global causal discovery with local search strategies. My research primarily centers on devising robust and efficient inference and causal discovery methods. More broadly, I am captivated by the challenge of constructing abstract mathematical models to address real-world problems and applying interpretable statistical techniques to data from physics, biology, social sciences, and engineering.
+My research focuses on developing robust and efficient methods for causal inference and causal discovery. I am also working on developing efficient and scalable nonparametric statistical tests.
 
-I am always open to engaging in discussions or forging new friendships. Please feel free to reach out to me via email if you share similar interests or simply wish to connect.
+I received my B.S. from [Weiyang College](https://www.wyc.tsinghua.edu.cn/), Tsinghua University, where I pursued a dual major in Mathematics & Physics and Civil Engineering & Systems.
 
+I am always happy to chat — feel free to reach out via email!
 
-[Resume](CVofMengxiaoGao.pdf) (Updated in March 2024)
+## Publications & Preprints
 
-<h2><div id="pub">Publications & Preprints</div></h2>
+- **Hybrid Top-Down Global Causal Discovery with Local Search for Linear and Nonlinear Additive Noise Models**
+  <br>
+  Sujai Hiremath, Jacqueline R.M.A. Maasch, **Mengxiao Gao**, Promit Ghosal, Kyra Gan
+  <br>
+  [[arXiv](https://arxiv.org/abs/2405.14496)][[NeurIPS 2024](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f03fc3545c3cfb3aa696ad6d58eed1a7-Abstract-Conference.html)]
 
-**[Hybrid Global Causal Discovery with Local Search](https://arxiv.org/abs/2405.14496)**
-<br>
-Sujai Hiremath, Jacqueline R.M.A. Maasch, <u>Mengxiao Gao</u> , Promit Ghosal, Kyra Gan
+## Education
 
-<h2><div id="education">Education</div></h2>
+- **Cornell University** &nbsp; *2025.08 – Present*
+  <br>
+  Ph.D. in Operations Research and Information Engineering
+  <br>
+  Advisor: [Kyra Gan](https://kyra-gan.github.io/)
 
-<table frame=void rules=none>
-    <tr>
-        <td width="15%">
-            <br>
-            <img src="thu2.png">
-        </td>
-        <td>
-            <br>
-            <b> Tsinghua University</b>
-            <br>
-            2021.09-2025.06
-            <br>
-            B.S. in Mathematics and Physics
-            Double major in Civil Engineering and Systems     
-        </td>
-    </tr>
-</table>
+- **Tsinghua University** &nbsp; *2021.09 – 2025.06*
+  <br>
+  B.S. in Mathematics and Physics; Double Major in Civil Engineering and Systems
+  <br>
+  Weiyang College
 
-<table frame=void rules=none>
-    <tr>
-        <td width="15%">
-            <br>
-            <img src="cornell.png">
-        </td>
-        <td>
-            <br>
-            <b> Cornell University</b>
-            <br>
-            2023.10-Present
-            <br>
-            Research Intern
-            <br>
-            Advisor: <a href="https://kyra-gan.github.io/">Kyra Gan</a>
-            <br>
-            Mentor: <a href="https://sujaihiremath.github.io/">Sujai Hiremath</a>, Jacqueline Maasch
-            <br>
-        </td>
-    </tr>
-</table>
+## Miscellaneous
 
-<h2><div id="other">Miscellaneous</div></h2>
-I am very fond of puzzle-solving games. I enjoy watching and following tennis and figure skating. I have a deep appreciation for traditional Chinese music and classical poetry. While I am not particularly keen on sports, I greatly enjoy traveling and savoring local cuisines.
+Outside of research, I enjoy puzzle-solving games and follow tennis and figure skating. I have a deep appreciation for traditional Chinese music and classical poetry. I also love traveling and trying local cuisines wherever I go.
+
+My favorite figure skating programs:
+[Weijing Sui](https://en.wikipedia.org/wiki/Sui_Wenjing)/Cong Han(https://en.wikipedia.org/wiki/Han_Cong): [Rain in Your Black Eyes](https://www.youtube.com/watch?v=3JCHh2Kcm1E) 
+[Alena Kostornaia](https://en.wikipedia.org/wiki/Alena_Kostornaia): [Twilight](https://www.youtube.com/watch?v=lm_ELKKSgLI)
+[Rika Kihira](https://en.wikipedia.org/wiki/Rika_Kihira): [The Fire Within](https://www.youtube.com/watch?v=50ljcDzWJ_0)
