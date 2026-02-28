@@ -43,7 +43,7 @@ I am always happy to chat — feel free to reach out via email!
 
 Outside of research, I enjoy puzzle-solving games and follow tennis and figure skating. I have a deep appreciation for traditional Chinese music and classical poetry. I also love traveling and trying local cuisines wherever I go.
 
-My favorite figure skating programs includes:
+My favorite figure skating programs include:
 <br>
 Weijing Sui/Cong Han: [Rain in Your Black Eyes](https://www.youtube.com/watch?v=3JCHh2Kcm1E) 
 <br>
