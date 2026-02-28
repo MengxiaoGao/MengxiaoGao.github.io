@@ -21,16 +21,15 @@ I am always happy to chat — feel free to reach out via email!
 ## Education
 
 <div style="display:flex; align-items:center; gap:12px; margin-bottom:8px;">
-  <img src="assets/img/cornell.png" width="40">
+  <img src="cornell.png" width="40">
   <div>
     <strong>Cornell University</strong> &nbsp; 2025.08 – Present<br>
     Ph.D. in Operations Research and Information Engineering
-    Advisor: Professor [Kyra Gan](https://kyra-gan.github.io/)
   </div>
 </div>
 
 <div style="display:flex; align-items:center; gap:12px; margin-bottom:8px;">
-  <img src="assets/img/thu2.png" width="40">
+  <img src="thu2.png" width="40">
   <div>
     <strong>Tsinghua University</strong> &nbsp; 2021.09 – 2025.06<br>
     B.S. in Mathematics and Physics; Double Major in Civil Engineering and Systems
@@ -43,9 +42,9 @@ Outside of research, I enjoy puzzle-solving games and follow tennis and figure s
 
 My favorite figure skating programs includes:
 <br>
-[Weijing Sui](https://en.wikipedia.org/wiki/Sui_Wenjing)/[Cong Han](https://en.wikipedia.org/wiki/Han_Cong): [Rain in Your Black Eyes](https://www.youtube.com/watch?v=3JCHh2Kcm1E) 
+Weijing Sui/Cong Han: [Rain in Your Black Eyes](https://www.youtube.com/watch?v=3JCHh2Kcm1E) 
 <br>
-[Alena Kostornaia](https://en.wikipedia.org/wiki/Alena_Kostornaia): [Twilight](https://www.youtube.com/watch?v=lm_ELKKSgLI)
+Alena Kostornaia: [Twilight](https://www.youtube.com/watch?v=lm_ELKKSgLI)
 <br>
-[Rika Kihira](https://en.wikipedia.org/wiki/Rika_Kihira): [The Fire Within](https://www.youtube.com/watch?v=50ljcDzWJ_0)
+Rika Kihira: [The Fire Within](https://www.youtube.com/watch?v=50ljcDzWJ_0)
 <br>
