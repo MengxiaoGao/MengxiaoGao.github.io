@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a first-year PhD student in the [School of Operations Research and Information Engineering (ORIE)](https://www.orie.cornell.edu/) at Cornell University. I am fortunate to be advised by Professor [Kyra Gan](https://kyra-gan.github.io/). My research focuses on developing robust and efficient methods for causal inference and causal discovery. I am also working on developing efficient and scalable nonparametric statistical tests.
+I am a first-year PhD student in the [School of Operations Research and Information Engineering (ORIE)](https://www.orie.cornell.edu/) at Cornell University. I am generally interested in theoretical foundations of generative models. Previously, I work on causal discovery algorithms and non-parametric statistical tests.
 
 Before my PhD, I received my B.S. from [Weiyang College](https://www.wyc.tsinghua.edu.cn/), Tsinghua University, where I pursued a dual major in Mathematics & Physics and Civil Engineering & Systems.
 
