@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a first-year PhD student in the [School of Operations Research and Information Engineering (ORIE)](https://www.orie.cornell.edu/) at Cornell University. I am generally interested in theoretical foundations of generative models. Previously, I work on causal discovery algorithms and non-parametric statistical tests.
+I am a first-year PhD student in the [School of Operations Research and Information Engineering (ORIE)](https://www.orie.cornell.edu/) at Cornell University. I am generally interested in theoretical foundations of generative models. Previously, I worked on causal discovery algorithms and non-parametric statistical tests.
 
 Before my PhD, I received my B.S. from [Weiyang College](https://www.wyc.tsinghua.edu.cn/), Tsinghua University, where I pursued a dual major in Mathematics & Physics and Civil Engineering & Systems.
 
