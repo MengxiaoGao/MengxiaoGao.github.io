@@ -12,13 +12,13 @@ I am always happy to chat — feel free to reach out via email!
 
 ## Publications & Preprints
 
-[P1] <span style="font-weight:700;">MixCIT: A Kernel Based Local-Polynomial Debiased Test for Conditional Independence on Mixed-Type Data</span>
+<span style="font-weight:700;">[P1]</span> <span style="font-weight:700; color: #003D79;">MixCIT: A Kernel Based Local-Polynomial Debiased Test for Conditional Independence on Mixed-Type Data</span>
   <br>
   <span style="font-weight:700;">Mengxiao Gao</span>, Kyra Gan, Promit Ghosal
   <br>
   [[arXiv](https://arxiv.org/abs/2607.12830v1)]
   
-[C1] <span style="font-weight:700;">Hybrid Top-Down Global Causal Discovery with Local Search for Linear and Nonlinear Additive Noise Models</span>
+<span style="font-weight:700;">[C1]</span> <span style="font-weight:700; color: #003D79;">Hybrid Top-Down Global Causal Discovery with Local Search for Linear and Nonlinear Additive Noise Models</span>
   <br>
   Sujai Hiremath, Jacqueline R.M.A. Maasch, <span style="font-weight:700;">Mengxiao Gao</span>, Promit Ghosal, Kyra Gan
   <br>
