@@ -25,7 +25,6 @@ I am always happy to chat — feel free to reach out via email!
   [[arXiv](https://arxiv.org/abs/2405.14496)][[NeurIPS 2024](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f03fc3545c3cfb3aa696ad6d58eed1a7-Abstract-Conference.html)]
 
 ## Teaching
-<br>
 Spring 2026, ORIE 3741/5741, Learning with Big Messy Data
 <br>
 Fall 2026, ORIE 6700, Statistical Principles
