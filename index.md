@@ -24,6 +24,14 @@ I am always happy to chat — feel free to reach out via email!
   <br>
   [[arXiv](https://arxiv.org/abs/2405.14496)][[NeurIPS 2024](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f03fc3545c3cfb3aa696ad6d58eed1a7-Abstract-Conference.html)]
 
+## Teaching
+<br>
+Spring 2026, ORIE 3741/5741, Learning with Big Messy Data
+<br>
+Fall 2026, ORIE 6700, Statistical Principles
+<br>
+
+
 ## Education
 
 <div style="display:flex; align-items:center; gap:12px; margin-bottom:16px;">
@@ -46,8 +54,6 @@ I am always happy to chat — feel free to reach out via email!
 </div>
 
 ## Miscellaneous
-
-Outside of research, I enjoy puzzle-solving games and follow tennis and figure skating. I have a deep appreciation for traditional Chinese music and classical poetry. I also love traveling and trying local cuisines wherever I go.
 
 My favorite figure skating programs include:
 <br>
