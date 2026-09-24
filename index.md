@@ -49,7 +49,6 @@ My current research interests lie in the statistical foundations of generative m
     Ph.D. in Operations Research and Information Engineering
   </div>
 </div>
-**Teaching:** Teaching Assistant for ORIE 6700, Fall 2026; ORIE 3741/5741, Spring 2026.
 
 <div style="display:flex; align-items:center; gap:12px; margin-bottom:16px;">
   <img src="thu2.png" width="70">
