@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 ## About Me
-{:#about }
+{: #about }
 
 I am a second-year PhD student in the [School of Operations Research and Information Engineering (ORIE)](https://www.orie.cornell.edu/) at Cornell University. I am generally interested in theoretical foundations of generative models. Previously, I worked on causal discovery algorithms and non-parametric statistical tests.
 
@@ -12,7 +12,7 @@ Before my PhD, I received my B.S. from [Weiyang College](https://www.wyc.tsinghu
 I am always happy to chat — feel free to reach out via email!
 
 ## Publications & Preprints
-{:#pub }
+{: #pub }
 
 <span style="font-weight:700;">[P1]</span> <span style="font-weight:700; color: #003D79;">MixCIT: A Kernel Based Local-Polynomial Debiased Test for Conditional Independence on Mixed-Type Data</span>
   <br>
@@ -27,7 +27,7 @@ I am always happy to chat — feel free to reach out via email!
   [[arXiv](https://arxiv.org/abs/2405.14496)][[NeurIPS 2024](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f03fc3545c3cfb3aa696ad6d58eed1a7-Abstract-Conference.html)]
 
 ## Teaching
-{:#teaching }
+{: #teaching }
 Spring 2026, ORIE 3741/5741, Learning with Big Messy Data
 <br>
 Fall 2026, ORIE 6700, Statistical Principles
@@ -35,7 +35,7 @@ Fall 2026, ORIE 6700, Statistical Principles
 
 
 ## Education
-{:#education }
+{: #education }
 
 <div style="display:flex; align-items:center; gap:12px; margin-bottom:16px;">
   <img src="cornell.png" width="70">
@@ -57,7 +57,7 @@ Fall 2026, ORIE 6700, Statistical Principles
 </div>
 
 ## Miscellaneous
-{:#other }
+{: #other }
 
 My favorite figure skating programs include:
 <br>
