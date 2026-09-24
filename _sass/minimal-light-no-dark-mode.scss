@@ -86,6 +86,14 @@ email {
     font-family: "Ubuntu Mono";
 }
 
+.education-item img {
+  width: 55px !important;
+  height: 55px !important;
+  max-width: 55px !important;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
 .icon-button i{
   background:none;
   color:white;
