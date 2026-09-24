@@ -25,73 +25,48 @@ My current research interests lie in the statistical foundations of generative m
 ## Publications & Preprints
 {: #pub }
 
-<div class="publication">
-  <div class="pub-title">
-    [2] MixCIT: A Kernel Based Local-Polynomial Debiased Test for Conditional Independence on Mixed-Type Data
-  </div>
-  <div class="pub-authors">
-    <strong>Mengxiao Gao</strong>, Kyra Gan, Promit Ghosal
-  </div>
-  <div class="pub-links">
-    <a href="https://arxiv.org/abs/2607.12830v1">arXiv</a>
-  </div>
-</div>
-
-<div class="publication">
-  <div class="pub-title">
-    [1] Hybrid Top-Down Global Causal Discovery with Local Search for Linear and Nonlinear Additive Noise Models
-  </div>
-  <div class="pub-authors">
-    Sujai Hiremath, Jacqueline R.M.A. Maasch, <strong>Mengxiao Gao</strong>,
-    Promit Ghosal, Kyra Gan
-  </div>
-  <div class="pub-links">
-    <a href="https://arxiv.org/abs/2405.14496">arXiv</a>
-    <a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/f03fc3545c3cfb3aa696ad6d58eed1a7-Abstract-Conference.html">
-      NeurIPS 2024
-    </a>
-  </div>
-</div>
+<span style="font-weight:700;">[2]</span> <span style="font-weight:700; color: #003D79;">MixCIT: A Kernel Based Local-Polynomial Debiased Test for Conditional Independence on Mixed-Type Data</span>
+  <br>
+  <span style="font-weight:700;">Mengxiao Gao</span>, Kyra Gan, Promit Ghosal
+  <br>
+  [[arXiv](https://arxiv.org/abs/2607.12830v1)]
+  
+<span style="font-weight:700;">[1]</span> <span style="font-weight:700; color: #003D79;">Hybrid Top-Down Global Causal Discovery with Local Search for Linear and Nonlinear Additive Noise Models</span>
+  <br>
+  Sujai Hiremath, Jacqueline R.M.A. Maasch, <span style="font-weight:700;">Mengxiao Gao</span>, Promit Ghosal, Kyra Gan
+  <br>
+  [[arXiv](https://arxiv.org/abs/2405.14496)][[NeurIPS 2024](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f03fc3545c3cfb3aa696ad6d58eed1a7-Abstract-Conference.html)]
 
 
-## Education
+## Education 
 {: #education }
 
-<div class="education-item">
-  <img src="cornell.png" alt="Cornell University">
+<div style="display:flex; align-items:center; gap:12px; margin-bottom:16px;">
+  <img src="cornell.png" width="70">
   <div>
-    <div class="education-school">Cornell University</div>
-    <div class="education-date">Aug. 2025 – Present</div>
-    <div class="education-degree">
-      Ph.D. in Operations Research and Information Engineering
-    </div>
+    <span style="font-weight:700;"> Cornell University</span>  <br>
+    2025.08 – Present <br>
+    Ph.D. in Operations Research and Information Engineering
   </div>
 </div>
 
-<div class="education-item">
-  <img src="thu2.png" alt="Tsinghua University">
+<div style="display:flex; align-items:center; gap:12px; margin-bottom:16px;">
+  <img src="thu2.png" width="70">
   <div>
-    <div class="education-school">Tsinghua University</div>
-    <div class="education-date">Sep. 2021 – Jun. 2025</div>
-    <div class="education-degree">
-      B.S. in Mathematics and Physics · Double Major in Civil Engineering and Systems
-    </div>
+    <span style="font-weight:700;">Tsinghua University</span> <br>
+    2021.09 – 2025.06 <br>
+    B.S. in Mathematics and Physics; Double Major in Civil Engineering and Systems
   </div>
 </div>
-
 
 ## Miscellaneous
 {: #other }
 
-<div class="misc-list">
-  Some of my favorite figure skating programs:
-  <br>
-  Weijing Sui / Cong Han —
-  <a href="https://www.youtube.com/watch?v=3JCHh2Kcm1E">Rain in Your Black Eyes</a>
-  <br>
-  Alena Kostornaia —
-  <a href="https://www.youtube.com/watch?v=lm_ELKKSgLI">Twilight</a>
-  <br>
-  Rika Kihira —
-  <a href="https://www.youtube.com/watch?v=50ljcDzWJ_0">The Fire Within</a>
-</div>
+My favorite figure skating programs include:
+<br>
+Weijing Sui/Cong Han: [Rain in Your Black Eyes](https://www.youtube.com/watch?v=3JCHh2Kcm1E) 
+<br>
+Alena Kostornaia: [Twilight](https://www.youtube.com/watch?v=lm_ELKKSgLI)
+<br>
+Rika Kihira: [The Fire Within](https://www.youtube.com/watch?v=50ljcDzWJ_0)
+<br>
