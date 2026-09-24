@@ -414,6 +414,14 @@ strong {
   font-weight:500;
 }
 
+.education-item img {
+  width: 55px !important;
+  height: 55px !important;
+  max-width: 55px !important;
+  object-fit: contain;
+  flex-shrink: 0;
+}
+
 @media (prefers-color-scheme: dark) {
   strong {
     color:#eeeff0;
