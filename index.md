@@ -16,10 +16,11 @@ I am always happy to chat — feel free to reach out via email!
 ## Current Research
 {: #research}
 
-My current research interest lie in statistical foundations of generative model, particularly diffusion models and learning from machine-generated data. Recent projects include:  
+My current research interests lie in the statistical foundations of generative models. In particular, I am interested in:
 
-- Statistical properties of score Estimation and diffusion models;  
-- Dynamics of learning from machine-generated data and model collapse.
+* Statistical properties of score estimation and diffusion models;
+* Learning dynamics with machine-generated data and model collapse.
+
 
 ## Publications & Preprints
 {: #pub }
