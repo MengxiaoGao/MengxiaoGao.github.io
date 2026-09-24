@@ -5,36 +5,39 @@ layout: homepage
 ## About Me
 {: #about }
 
-I am a second-year PhD student in the [School of Operations Research and Information Engineering (ORIE)](https://www.orie.cornell.edu/) at Cornell University. I am generally interested in theoretical foundations of generative models. Previously, I worked on causal discovery algorithms and non-parametric statistical tests.
+I am a second-year PhD student in the [School of Operations Research and Information Engineering (ORIE)](https://www.orie.cornell.edu/) at Cornell University. I am broadly interested in understanding when modern generative learning is statistically stable and efficient. Previously, I worked on causal discovery algorithms and non-parametric statistical tests.
 
 Before my PhD, I received my B.S. from [Weiyang College](https://www.wyc.tsinghua.edu.cn/), Tsinghua University, where I pursued a dual major in Mathematics & Physics and Civil Engineering & Systems.
 
 I am always happy to chat — feel free to reach out via email!
 
+
+
+## Current Research
+{: #research}
+
+My current research interest lie in statistical foundations of generative model, particularly diffusion models and learning from machine-generated data. Recent projects include:  
+
+- Statistical properties of score Estimation and diffusion models;  
+- Dynamics of learning from machine-generated data and model collapse.
+
 ## Publications & Preprints
 {: #pub }
 
-<span style="font-weight:700;">[P1]</span> <span style="font-weight:700; color: #003D79;">MixCIT: A Kernel Based Local-Polynomial Debiased Test for Conditional Independence on Mixed-Type Data</span>
+<span style="font-weight:700;">[2]</span> <span style="font-weight:700; color: #003D79;">MixCIT: A Kernel Based Local-Polynomial Debiased Test for Conditional Independence on Mixed-Type Data</span>
   <br>
   <span style="font-weight:700;">Mengxiao Gao</span>, Kyra Gan, Promit Ghosal
   <br>
   [[arXiv](https://arxiv.org/abs/2607.12830v1)]
   
-<span style="font-weight:700;">[C1]</span> <span style="font-weight:700; color: #003D79;">Hybrid Top-Down Global Causal Discovery with Local Search for Linear and Nonlinear Additive Noise Models</span>
+<span style="font-weight:700;">[1]</span> <span style="font-weight:700; color: #003D79;">Hybrid Top-Down Global Causal Discovery with Local Search for Linear and Nonlinear Additive Noise Models</span>
   <br>
   Sujai Hiremath, Jacqueline R.M.A. Maasch, <span style="font-weight:700;">Mengxiao Gao</span>, Promit Ghosal, Kyra Gan
   <br>
   [[arXiv](https://arxiv.org/abs/2405.14496)][[NeurIPS 2024](https://proceedings.neurips.cc/paper_files/paper/2024/hash/f03fc3545c3cfb3aa696ad6d58eed1a7-Abstract-Conference.html)]
 
-## Teaching
-{: #teaching }
-Spring 2026, ORIE 3741/5741, Learning with Big Messy Data
-<br>
-Fall 2026, ORIE 6700, Statistical Principles
-<br>
 
-
-## Education
+## Education 
 {: #education }
 
 <div style="display:flex; align-items:center; gap:12px; margin-bottom:16px;">
@@ -45,7 +48,7 @@ Fall 2026, ORIE 6700, Statistical Principles
     Ph.D. in Operations Research and Information Engineering
   </div>
 </div>
-
+**Teaching:** Teaching Assistant for ORIE 6700, Fall 2026; ORIE 3741/5741, Spring 2026.
 
 <div style="display:flex; align-items:center; gap:12px; margin-bottom:16px;">
   <img src="thu2.png" width="70">
