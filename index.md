@@ -13,7 +13,7 @@ I am always happy to chat — feel free to reach out via email!
 
 
 
-## Current Research
+## Research
 {: #research}
 
 My current research interests lie in the statistical foundations of generative models. In particular, I am interested in:
@@ -21,16 +21,20 @@ My current research interests lie in the statistical foundations of generative m
 * Statistical properties of score estimation and diffusion models;
 * Learning dynamics with machine-generated data and model collapse.
 
+Previously, I worked on general casual discovery algorithms. [[see [2](#pub-2) [1](#pub-1)]]
+
 
 ## Publications & Preprints
 {: #pub }
 
+<span id="pub-2"></span>
 <span style="font-weight:700;">[2]</span> <span style="font-weight:700; color: #003D79;">MixCIT: A Kernel Based Local-Polynomial Debiased Test for Conditional Independence on Mixed-Type Data</span>
   <br>
   <span style="font-weight:700;">Mengxiao Gao</span>, Kyra Gan, Promit Ghosal
   <br>
   [[arXiv](https://arxiv.org/abs/2607.12830v1)]
   
+<span id="pub-1"></span>
 <span style="font-weight:700;">[1]</span> <span style="font-weight:700; color: #003D79;">Hybrid Top-Down Global Causal Discovery with Local Search for Linear and Nonlinear Additive Noise Models</span>
   <br>
   Sujai Hiremath, Jacqueline R.M.A. Maasch, <span style="font-weight:700;">Mengxiao Gao</span>, Promit Ghosal, Kyra Gan
