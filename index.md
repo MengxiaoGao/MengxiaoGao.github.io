@@ -21,7 +21,7 @@ My current research interests lie in the statistical foundations of generative m
 * Statistical properties of score estimation and diffusion models;
 * Learning dynamics with machine-generated data and model collapse.
 
-Previously, I worked on general casual discovery algorithms. [[see [2](#pub-2) [1](#pub-1)]]
+Previously, I worked on general casual discovery algorithms. [see [[2](#pub-2)] [[1](#pub-1)]]
 
 
 ## Publications & Preprints
