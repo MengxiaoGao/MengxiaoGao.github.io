@@ -18,7 +18,7 @@ I am always happy to chat — feel free to reach out via email!
 
 My current research interests lie in the statistical foundations of generative models. In particular, I am interested in:
 
-* Statistical properties of score estimation and diffusion models;
+* Statistical properties of score estimation and diffusion models [[3](#pub-3)];
 * Learning dynamics with machine-generated data and model collapse.
 
 Previously, I worked on general casual discovery algorithms. [see [[2](#pub-2)] [[1](#pub-1)]]
@@ -26,6 +26,13 @@ Previously, I worked on general casual discovery algorithms. [see [[2](#pub-2)] 
 
 ## Publications & Preprints
 {: #pub }
+
+<span id="pub-3"></span>
+<span style="font-weight:700;">[2]</span> <span style="font-weight:700; color: #003D79;">Differentially Private Score Estimation with Applications to Score-Based Generative Models</span>
+  <br>
+  <span style="font-weight:700;">Mengxiao Gao</span>, Elly K. H. Hung, Yuchen Wu, Yi Yu
+  <br>
+  [[arXiv](https://arxiv.org/abs/2611.25536)]
 
 <span id="pub-2"></span>
 <span style="font-weight:700;">[2]</span> <span style="font-weight:700; color: #003D79;">MixCIT: A Kernel Based Local-Polynomial Debiased Test for Conditional Independence on Mixed-Type Data</span>
