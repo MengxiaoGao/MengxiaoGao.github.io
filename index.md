@@ -28,7 +28,7 @@ Previously, I worked on general casual discovery algorithms. [see [[2](#pub-2)] 
 {: #pub }
 
 <span id="pub-3"></span>
-<span style="font-weight:700;">[2]</span> <span style="font-weight:700; color: #003D79;">Differentially Private Score Estimation with Applications to Score-Based Generative Models</span>
+<span style="font-weight:700;">[3]</span> <span style="font-weight:700; color: #003D79;">Differentially Private Score Estimation with Applications to Score-Based Generative Models</span>
   <br>
   <span style="font-weight:700;">Mengxiao Gao</span>, Elly K. H. Hung, Yuchen Wu, Yi Yu
   <br>
